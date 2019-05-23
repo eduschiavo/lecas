@@ -1,2 +1,3 @@
-# lecas
-All my stuff in one big repo
+# LECAS
+
+Merging all my stuff in one big repo...
